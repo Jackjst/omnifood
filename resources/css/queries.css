@@ -1,0 +1,232 @@
+/*Big Tablet to 1200px */
+@media only screen and (max-width:1200px){
+  .hero-text-box{
+    font-size: 20px;
+  }
+  
+  p.long-text{
+    font-size: 20px;
+    padding: 0;
+    padding-bottom: 20px;
+  }
+  
+  h1{
+    font-size: 200%;
+  }
+  
+  h3{
+    font-size: 20px;
+  }
+  
+  p.para{
+    font-size: 18px;
+  }
+  
+  .work-step{
+    margin-right:0;
+  }
+  
+  .plan-box ul li{
+    font-size: 17px;
+  }
+  
+  .section-form h2{
+    font-size: 138%;
+  }
+  
+  .section-cities{
+    margin-bottom: 20px;
+  }
+}
+
+/*small tablet to big tablet: 768px to 1023px */
+@media only screen and (max-width:1023px){
+  body{
+    font-size: 15px;
+  }
+  
+  .contact-form{
+    width: 80%;
+  }
+  
+  .plan-price{
+    font-size: 250%;
+  }
+  
+  .hero-text-box h1{
+    font-size: 130%;
+  }
+  
+  .btn-app img {
+    height: 40px;
+  }
+  
+  .steps-boxes:last-child {
+    margin-top:20px;
+  }
+  
+  .iphone-image {
+    width: 46%;
+    margin-left: 35%;
+    margin-top: 3%;
+  }
+  
+  .cities-img {
+    margin-top: 10px;
+    width: 153px;
+  }
+  
+  .section-cities h2{
+    font-size:18px;
+  }
+  
+  .icon-small{
+    width: 17px;
+  }
+  
+  .city-feature{
+    font-size: 90%;
+    margin: 5px;
+  }
+  
+  a:visited, a:link {
+    font-size: 97%;
+  }
+  
+  cite{
+    margin-left: 0;
+  }
+  
+  p.para{
+    font-size: 17px;
+  }
+  
+}
+
+/*small phones to small tablet: 481px to 767px */
+@media only screen and (max-width:767px){
+  body{
+    font-size: 16px;
+  }
+  
+  section{
+    padding: 20px 0;
+  }
+  
+  .col{
+    width: 100%;
+  }
+  
+  .main-nev{
+    display: none;
+  }
+  
+  h1{
+    font-size: 150%;
+  }
+  
+  h2{
+    font-size: 150%;
+  }
+  
+  .row,
+  .hero-text-box{
+    padding: 0 4%;
+  }
+
+  .meal-section {
+    padding-bottom: 0;
+  }
+  
+  .iphone-image {
+    margin-left: 30%;
+  }
+  
+  .iphone-image{
+    width: 40%;
+  }
+  
+  .work-step div {
+    width: 40px;
+    height: 40px;
+    font-size: 125%;
+  }
+  
+  .city-features{
+    text-align: center;
+  }
+  
+  .cities-img {
+    width: 370px;
+    height: 210px;
+  }
+    
+  .work-step{
+    padding-bottom: -5px;
+  }
+
+  .plan-box{
+    margin-bottom: 4%;
+  }
+
+  .hero-text-box{
+    width: 100%;
+    right: 0;
+  }
+
+}
+
+/*small phones: from 0px to 480px */
+@media only screen and (max-width:480px){
+  
+  body{
+    font-size: 14px;
+  }
+  
+  .contact-form{
+    width: 100%;
+  }
+  
+  .hero-text-box{
+      width: 88%;
+      right: 0;
+  }
+
+  .hero-text-box {
+      font-size: 15px;
+    padding: 0;
+  }
+
+  .btn-app img {
+      height: 37px;
+  }
+
+  h2{font-size: 150%;}
+
+  .section-steps-title{
+    font-size: 140%;
+  }
+
+  .cities-img{
+    width: 310px;
+    height: 200px;
+    margin-left: -10%;
+  }
+  
+  .btn-app img {
+    margin-right: 0;
+  }
+  
+  .cities-img {
+    width: 220px;
+    height: 200px;
+}
+  
+  .btn btn-ghost{
+    padding-left: 0;
+  }
+  
+  .social-links{
+    margin-right: 76px;
+    margin-top: 18px;
+  }
